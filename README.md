@@ -16,8 +16,6 @@ Salut ! Je suis **Paguiel**, passionné par le cyclisme, la guitare, l'aérospat
 <a href="https://micropython.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" alt="MicroPython" width="50"/></a>&nbsp;&nbsp;
 <a href="https://scratch.mit.edu/"><img src="https://cdn.worldvectorlogo.com/logos/scratch-cat.svg" alt="Scratch" width="50"/></a>
 
-...and many more!
-
 ---
 
 ### 🚀 Projets en cours
