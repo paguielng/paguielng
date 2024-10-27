@@ -24,8 +24,8 @@ Salut ! Moi c'est **Paguiel**, passionné par le cyclisme, la guitare, l'aérosp
 ### 🚀 Projets en cours
 
 - **[Rocket-developp-v2](https://github.com/paguielng/Rocket-developp-v2)**  
-  - Développement sur deux ans, avec pour objectif de maîtriser le **séquenceur** et le **contrôle de roulis** via un asservissement **PID**.
-  - Actuellement, je travaille sur l’intégration d’optocoupleurs et le système de commande.
+- Développement sur deux ans, avec pour objectif de maîtriser le **séquenceur** et le **contrôle de roulis** via un asservissement **PID**.
+- Actuellement, je travaille sur l’intégration d’optocoupleurs et le système de commande.
 
 ### 🛠️ Langages et Outils
 
