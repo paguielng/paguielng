@@ -18,7 +18,7 @@ Salut ! Moi c'est **Paguiel**, passionné par le cyclisme, la guitare, l'aérosp
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Scratch" width="50"/></a>
 <a href="https://thonny.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="Thonny" width="60"/></a>
 <a href="https://www.autodesk.com/ca-fr/products/fusion-360/personal"><img src="https://imaginarium-espalion.fr/uploads/images/Administration/Logo_Fusion360.svg" alt="Fusion 360" width="45"/></a>
-<a href="https://www.autodesk.com/ca-fr/products/fusion-360/personal"><img src="https://play-lh.googleusercontent.com/u47CFqUYIgGSWLkNnLRoQ3en-Vxk1uawmA_ZFDDqUqyVNy7th11tb9mJQqDKRAG7zWE=w240-h480-rw" alt="Fusion 360" width="50"/></a>
+<a href="https://www.autodesk.com/ca-fr/products/fusion-360/personal"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Microbit-logo-stacked.png" alt="Fusion 360" width="50"/></a>
 
 ---
 ### 🛠️ Outils de conception & developpement
