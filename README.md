@@ -35,7 +35,7 @@ Salut ! Moi c'est **Paguiel**, passionné par le cyclisme, la guitare, l'aérosp
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Optocoupleurs](https://img.shields.io/badge/Optocoupleurs-007ACC?style=for-the-badge)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF8800?style=for-the-badge&logo=autodesk&logoColor=white)
-![Thonny](https://img.shields.io/badge/Thonny-5A9FD4?style=for-the-badge&logo=thonny&logoColor=white)
+![Thonny](https://img.shields.io/badge/Thonny-333333?style=for-the-badge&logo=thonny&logoColor=white)
 
 - Langages : Python, MicroPython
 - Outils : Git, PID, Thonny IDE, Optocoupleurs, Fusion 360
