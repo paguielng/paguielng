@@ -20,14 +20,7 @@ Salut ! Moi c'est **Paguiel**, passionné par le cyclisme, la guitare, l'aérosp
 <a href="https://www.autodesk.com/ca-fr/products/fusion-360/personal"><img src="https://imaginarium-espalion.fr/uploads/images/Administration/Logo_Fusion360.svg" alt="Fusion 360" width="45"/></a>
 
 ---
-
-### 🚀 Projets en cours
-
-- **[Rocket-developp-v2](https://github.com/paguielng/Rocket-developp-v2)**  
-- Développement sur deux ans, avec pour objectif de maîtriser le **séquenceur** et le **contrôle de roulis** via un asservissement **PID**.
-- Actuellement, je travaille sur l’intégration d’optocoupleurs et le système de commande.
-
-### 🛠️ Langages et Outils
+### 🛠️ Outils de conception & developpement
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
