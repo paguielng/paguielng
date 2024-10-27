@@ -7,18 +7,14 @@ Salut ! Je suis **Paguiel**, passionné par le cyclisme, la guitare, l'aérospat
 ---
 ## 👨‍💻 I code with...
 
-<a href="https://embedded-c.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="50"/></a>&nbsp;&nbsp;
-<a href="https://www.arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50"/></a>&nbsp;&nbsp;
-<a href="https://www.iso.org/standard/66095.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50"/></a>&nbsp;&nbsp;
-<a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/></a>&nbsp;&nbsp;
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/></a>&nbsp;&nbsp;
-<a href="https://www.raspberrypi.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50"/></a>&nbsp;&nbsp;
 <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50"/></a>&nbsp;&nbsp;
-<a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="50"/></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50"/></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/></a>&nbsp;&nbsp;
-<a href="https://subversion.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" alt="Subversion" width="50"/></a>
+<a href="https://www.spyder-ide.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" alt="Spyder" width="50"/></a>&nbsp;&nbsp;
+<a href="https://micropython.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/micropython/micropython-original.svg" alt="MicroPython" width="50"/></a>&nbsp;&nbsp;
+<a href="https://scratch.mit.edu/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scratch/scratch-original.svg" alt="Scratch" width="50"/></a>
 
 ...and many more!
 
