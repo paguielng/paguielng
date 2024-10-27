@@ -14,7 +14,7 @@ Salut ! Je suis **Paguiel**, passionné par le cyclisme, la guitare, l'aérospat
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/></a>&nbsp;&nbsp;
 <a href="https://www.spyder-ide.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" alt="Spyder" width="50"/></a>&nbsp;&nbsp;
 <a href="https://micropython.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/micropython/micropython-original.svg" alt="MicroPython" width="50"/></a>&nbsp;&nbsp;
-<a href="https://scratch.mit.edu/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scratch/scratch-original.svg" alt="Scratch" width="50"/></a>
+<a href="https://scratch.mit.edu/"><img src="https://cdn.worldvectorlogo.com/logos/scratch-cat.svg" alt="Scratch" width="50"/></a>
 
 ...and many more!
 
