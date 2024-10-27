@@ -34,19 +34,11 @@ Salut ! Moi c'est **Paguiel**, passionné par le cyclisme, la guitare, l'aérosp
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Optocoupleurs](https://img.shields.io/badge/Optocoupleurs-007ACC?style=for-the-badge)
 
-- Langages : Python, [Autres Langages]
-- Outils : Git, PID, [Autres Outils]
+- Langages : Python, MicroPython
+- Outils : Git, PID, Thonny IDE, Optocoupleurs, Fusion 360
 
 ---
 
 ### 📊 Statistiques GitHub
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=paguielng&show_icons=true&theme=radical)
-
----
-
-### 📬 Contact
-
-Retrouvez-moi également sur :
-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)&nbsp;
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
