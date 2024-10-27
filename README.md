@@ -17,7 +17,7 @@ Salut ! Moi c'est **Paguiel**, passionné par le cyclisme, la guitare, l'aérosp
 <a href="https://scratch.mit.edu/"><img src="https://cdn.worldvectorlogo.com/logos/scratch-cat.svg" alt="Scratch" width="50"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Scratch" width="50"/></a>
 <a href="https://thonny.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="Thonny" width="60"/></a>
-<a href="https://www.autodesk.com/ca-fr/products/fusion-360/personal"><img src="https://imaginarium-espalion.fr/uploads/images/Administration/Logo_Fusion360.svg" alt="Fusion 360" width="40"/></a>
+<a href="https://www.autodesk.com/ca-fr/products/fusion-360/personal"><img src="https://imaginarium-espalion.fr/uploads/images/Administration/Logo_Fusion360.svg" alt="Fusion 360" width="50"/></a>
 
 ---
 
