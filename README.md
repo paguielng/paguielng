@@ -2,7 +2,7 @@
 
 ## 👋 Bienvenue sur mon GitHub !
 
-Salut ! Moi c'est **Paguiel**, passionné par le cyclisme, la guitare, l'aérospatiale, l'aventure et les projets techniques. Sur ce GitHub, je partage des projets autour de mes intérêts, notamment un projet de **developpement de fusées amateur** en cours. Mon but est de combiner exploration pratique et compétences techniques pour mener des projets d’envergure.
+Salut ! Moi c'est **Paguiel**, passionné par le cyclisme, la guitare, l'aérospatiale, l'aventure et les projets techniques. Sur ce GitHub, je partage des projets autour de mes intérêts, notamment un projet de **developpement de fusées amateur**. Mon but est de combiner exploration pratique et compétences techniques pour mener des projets d’envergure.
 
 ---
 ## 👨‍💻 I code with...
