@@ -2,7 +2,7 @@
 
 ## 👋 Bienvenue sur mon GitHub !
 
-Salut ! Moi c'est **Paguiel**, je suis passionné par le cyclisme, la guitare, l'aérospatiale, sciences et technologies avancées, l'aventure et les projets techniques. 
+Salut ! Moi c'est **Paguiel**, je suis passionné par le cyclisme, la guitare, l'aérospatiale, sciences et technologies avancées, l'aventure et les projets techniques. Sur ce GuitHub je partage des projets aoutour de mes intérêts.
 ---
 ## 👨‍💻 I code with...
 
