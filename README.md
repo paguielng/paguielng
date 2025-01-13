@@ -15,6 +15,12 @@ Salut ! Moi c'est **Paguiel**, je suis passionné par le cyclisme, la guitare, l
 
 
 
+
+
+
+
+
+
 ### 📊 Statistiques GitHub
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=paguielng&show_icons=true&theme=radical)
