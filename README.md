@@ -14,7 +14,7 @@ Salut ! Moi c'est **Paguiel**, je suis passionné par le cyclisme, la guitare, l
 <br />
 
 ---
-## 👨‍💻 I code with...
+## 👨‍💻 I often code with...
 
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/></a>&nbsp;&nbsp;
 <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50"/></a>&nbsp;&nbsp;
