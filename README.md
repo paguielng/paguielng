@@ -11,7 +11,7 @@ Salut ! Moi c'est **Paguiel**, je suis passionné par le cyclisme, la guitare, l
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<br/>
+<br />
 
 ---
 ## 👨‍💻 I code with...
