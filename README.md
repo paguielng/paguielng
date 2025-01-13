@@ -16,7 +16,6 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
 
 ---
 ## 👨‍💻 I often code with...
-
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/></a>&nbsp;&nbsp;
 <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50"/></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/></a>&nbsp;&nbsp;
