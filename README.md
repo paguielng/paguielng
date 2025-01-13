@@ -6,7 +6,7 @@ Salut ! Moi, c'est **Paguiel**.
 Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **technologies**, **aventure** et **projets techniques**, je partage ici mes projets, notamment en **fusées amateurs**, **informatique** et autres domaines techniques.
 
 <!--Languages and Tools Section-->       
-<h2 align="center">DevStudio & OPENSOFT</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -59,12 +59,12 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=paguielng&show_icons=true&theme=radical)
 
- <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+<tr>
+   <td width="50%">
+     <h3 align="left"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+     <p align="center">
+       <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
+         <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
