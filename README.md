@@ -13,7 +13,7 @@ Salut ! Moi c'est **Paguiel**, je suis passionné par le cyclisme, la guitare, l
 </picture>
 <br />
 
----
+
 ## 👨‍💻 I code with...
 
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/></a>&nbsp;&nbsp;
