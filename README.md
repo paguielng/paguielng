@@ -20,7 +20,7 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
 </picture>
 <br />
 
----
+
 ## 👨‍💻 I often code with...
 
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/></a>&nbsp;&nbsp;
