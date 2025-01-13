@@ -27,7 +27,7 @@ Salut ! Moi c'est **Paguiel**, je suis passionné par le cyclisme, la guitare, l
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Scratch" width="50"/></a>
 <a href="https://thonny.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="Thonny" width="60"/></a>
 
----
+
 ### 🛠️ Outils de conception & developpement
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
