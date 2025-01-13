@@ -2,7 +2,8 @@
 
 ## 👋 Bienvenue sur mon GitHub !
 
-Salut ! Moi c'est **Paguiel**, je suis passionné par le cyclisme, la guitare, l'aérospatiale, sciences et technologies avancées, l'aventure et les projets techniques. Sur ce GuitHub je partage des projets aoutour de mes intérêts, notamment un projet de **developpement de fusées amateur** et **l'Informatique** mais également des projets techniques.
+Salut ! Moi, c'est **Paguiel**.  
+Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **technologies**, **aventure** et **projets techniques**, je partage ici mes projets, notamment en **fusées amateurs**, **informatique** et autres domaines techniques.
 
 <!--Languages and Tools Section-->       
 <h2 align="center">DevStudio & OPENSOFT</h2> 
