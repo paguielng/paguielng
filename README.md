@@ -17,7 +17,7 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
 
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="right">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/Kiran1689">
     <picture>
