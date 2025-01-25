@@ -14,17 +14,29 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
 
 ## 👨‍💻 I often code with...
 
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/></a>&nbsp;&nbsp;
-<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50"/></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50"/></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/></a>&nbsp;&nbsp;
-<a href="https://www.spyder-ide.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" alt="Spyder" width="50"/></a>&nbsp;&nbsp;
-<a href="https://micropython.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" alt="MicroPython" width="50"/></a>&nbsp;&nbsp;
-<a href="https://jupyter.org//"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/langfr-800px-Jupyter_logo.svg.png" alt="JupiterLab" width="50"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Scratch" width="50"/></a>
-<a href="https://thonny.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="Thonny" width="60"/></a>
-<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/langfr-1280px-Git-logo.svg.png" alt="Git" width="100"/></a>
+<div style="display: flex; overflow: hidden; white-space: nowrap;">
+  <div style="display: inline-block; animation: scroll 10s linear infinite;">
+    <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/></a>&nbsp;&nbsp;
+    <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50"/></a>&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/></a>&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50"/></a>&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/></a>&nbsp;&nbsp;
+    <a href="https://www.spyder-ide.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" alt="Spyder" width="50"/></a>&nbsp;&nbsp;
+    <a href="https://micropython.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" alt="MicroPython" width="50"/></a>&nbsp;&nbsp;
+    <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/langfr-800px-Jupyter_logo.svg.png" alt="JupyterLab" width="50"/></a>&nbsp;&nbsp;
+    <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="50"/></a>&nbsp;&nbsp;
+    <a href="https://thonny.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="Thonny" width="60"/></a>&nbsp;&nbsp;
+    <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/langfr-1280px-Git-logo.svg.png" alt="Git" width="100"/></a>
+  </div>
+</div>
+
+<style>
+  @keyframes scroll {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+  }
+</style>
+
 
 
 ### 🛠️ Outils de conception & developpement
