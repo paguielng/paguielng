@@ -15,18 +15,22 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
 ## 👨‍💻 I often code with...
 
 <div style="display: flex; overflow: hidden; white-space: nowrap;">
-  <div style="display: inline-block; animation: scroll 10s linear infinite;">
-    <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/></a>&nbsp;&nbsp;
-    <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50"/></a>&nbsp;&nbsp;
+  <div style="display: inline-block; animation: scroll 15s linear infinite;">
+    <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="52"/></a>&nbsp;&nbsp;
+    <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="52"/></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50"/></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/></a>&nbsp;&nbsp;
+    <a href="https://gitlab.com/"><img src="https://talks.freelancerepublik.com/wp-content/uploads/2021/02/GitLab_Logo.svg.png" alt="GitLab" width="50"/></a>&nbsp;&nbsp;
     <a href="https://www.spyder-ide.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" alt="Spyder" width="50"/></a>&nbsp;&nbsp;
+    <a href="https://www.docker.com/"><img src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png" alt="Docker" width="65"/></a>&nbsp;&nbsp;
     <a href="https://micropython.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" alt="MicroPython" width="50"/></a>&nbsp;&nbsp;
     <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/langfr-800px-Jupyter_logo.svg.png" alt="JupyterLab" width="50"/></a>&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="50"/></a>&nbsp;&nbsp;
-    <a href="https://thonny.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="Thonny" width="60"/></a>&nbsp;&nbsp;
-    <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/langfr-1280px-Git-logo.svg.png" alt="Git" width="100"/></a>
+    <a href="https://thonny.org/"><img src="https://media.imgcdn.org/repo/2024/09/thonny-python-ide/66e2d10761e42-thonny-Icon.webp" alt="Thonny" width="50"/></a>&nbsp;&nbsp;
+    <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="55"/></a>&nbsp;&nbsp;
+	<a href="https://nodejs.org/"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="Nodejs" width="47"/></a>&nbsp;&nbsp;
+	<a href="https://developer.android.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/langfr-800px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" width="50"/></a>
   </div>
 </div>
 
