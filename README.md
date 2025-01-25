@@ -66,9 +66,15 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
 <tr>
    <td width="50%">
      <h3 align="left"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-     <p align="right">
+     <p align="left">
        <a href="https://github.com/paguielng/Rocket-developp-v2">
          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=paguielng&repo=FIFA-Odyssey&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="FIFA-Odyssey" />
+        </a>
+      </p>
+    </td>
+    <p align="right">
+       <a href="https://github.com/paguielng/Rocket-developp-v2">
+         <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=paguielng&repo=Rocket-developp-v2&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Rocket-developp-v2" />
         </a>
       </p>
     </td>
