@@ -59,9 +59,7 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
 <br />
 
 ---
-### 📊 Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api/pin/?username=paguieln_icons=true&theme=radical)
+### 📊 Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ
 
 <tr>
    <td width="50%">
