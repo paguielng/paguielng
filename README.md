@@ -33,7 +33,7 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
 <a href="https://jupyter.org//"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/langfr-800px-Jupyter_logo.svg.png" alt="JupiterLab" width="50"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Scratch" width="50"/></a>
 <a href="https://thonny.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="Thonny" width="60"/></a>
-<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/langfr-1280px-Git-logo.svg.png" alt="Git" width="90"/></a>
+<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/langfr-1280px-Git-logo.svg.png" alt="Git" width="100"/></a>
 
 
 ### 🛠️ Outils de conception & developpement
