@@ -14,8 +14,8 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
 
 ## 👨‍💻 I often code with...
 
-<div style="display: flex; overflow: hidden; white-space: nowrap;">
-  <div style="display: inline-block; animation: scroll 15s linear infinite;">
+<div style="overflow: hidden; white-space: nowrap;">
+  <div style="display: inline-block; animation: scroll 10s linear infinite; white-space: nowrap;">
     <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="52"/></a>&nbsp;&nbsp;
     <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="52"/></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/></a>&nbsp;&nbsp;
@@ -33,14 +33,6 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
 	<a href="https://developer.android.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/langfr-800px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" width="50"/></a>
   </div>
 </div>
-
-<style>
-  @keyframes scroll {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
-  }
-</style>
-
 
 
 ### 🛠️ Outils de conception & developpement
