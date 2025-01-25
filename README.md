@@ -61,7 +61,7 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
 ---
 ### 📊 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=paguielng&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api/pin/?username=paguieln_icons=true&theme=radical)
 
 <tr>
    <td width="50%">
@@ -72,9 +72,4 @@ Passionné de **cyclisme**, **guitare**, **aérospatiale**, **sciences**, **tech
         </a>
       </p>
     </td>
-    <p align="right">
-       <a href="https://github.com/paguielng/Rocket-developp-v2">
-         <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=paguielng&repo=Rocket-developp-v2&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Rocket-developp-v2" />
-        </a>
-      </p>
-    </td>
+   
