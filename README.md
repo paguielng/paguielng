@@ -3,7 +3,7 @@
 ## 👋 Bienvenue sur mon GitHub !
 
 Salut ! Moi, c'est **Paguiel**.  
-Passionné de **vélo**, **guitare**, **aérospatiale**, **sciences**, **technologies**, **aventure** et **projets techniques**, je partage ici mes projets, notamment en **fusées amateurs**, **informatique** et autres domaines techniques.
+Passionné de **sciences**, **technologies** et **projets techniques**, je partage ici mes projets, notamment en **fusées amateurs**, **informatique** et autres domaines techniques.
 
 <!--Profile Count Badge-->
 <p align="left">
