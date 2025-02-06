@@ -27,7 +27,6 @@ Passionné de **sciences**, **technologies** et **projets techniques**, je parta
     <a href="https://micropython.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" alt="MicroPython" width="50"/></a>&nbsp;&nbsp;
     <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/langfr-800px-Jupyter_logo.svg.png" alt="JupyterLab" width="50"/></a>&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="50"/></a>&nbsp;&nbsp;
-    <a href="https://thonny.org/"><img src="https://media.imgcdn.org/repo/2024/09/thonny-python-ide/66e2d10761e42-thonny-Icon.webp" alt="Thonny" width="50"/></a>&nbsp;&nbsp;
     <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="55"/></a>&nbsp;&nbsp;
 	<a href="https://developer.android.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/langfr-800px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" width="50"/></a>
   </div>
