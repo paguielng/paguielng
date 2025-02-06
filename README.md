@@ -29,7 +29,6 @@ Passionné de **sciences**, **technologies** et **projets techniques**, je parta
     <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="50"/></a>&nbsp;&nbsp;
     <a href="https://thonny.org/"><img src="https://media.imgcdn.org/repo/2024/09/thonny-python-ide/66e2d10761e42-thonny-Icon.webp" alt="Thonny" width="50"/></a>&nbsp;&nbsp;
     <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="55"/></a>&nbsp;&nbsp;
-	<a href="https://nodejs.org/"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="Nodejs" width="47"/></a>&nbsp;&nbsp;
 	<a href="https://developer.android.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/langfr-800px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" width="50"/></a>
   </div>
 </div>
