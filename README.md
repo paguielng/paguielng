@@ -23,7 +23,7 @@ Passionné de **sciences**, **technologies** et **projets techniques**, je parta
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/></a>&nbsp;&nbsp;
     <a href="https://gitlab.com/"><img src="https://talks.freelancerepublik.com/wp-content/uploads/2021/02/GitLab_Logo.svg.png" alt="GitLab" width="50"/></a>&nbsp;&nbsp;
     <a href="https://www.spyder-ide.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" alt="Spyder" width="50"/></a>&nbsp;&nbsp;
-    <a href="https://www.docker.com/"><img src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png" alt="Docker" width="65"/></a>&nbsp;&nbsp;
+    <a href="https://www.docker.com/"><img src="https://d7umqicpi7263.cloudfront.net/img/product/bf3d98f7-537d-4f2c-b763-ee84a2487590.com/5c52f7fb9b471662f8b00586df713879" alt="Docker" width="65"/></a>&nbsp;&nbsp;
     <a href="https://micropython.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" alt="MicroPython" width="50"/></a>&nbsp;&nbsp;
     <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/langfr-800px-Jupyter_logo.svg.png" alt="JupyterLab" width="50"/></a>&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="50"/></a>&nbsp;&nbsp;
