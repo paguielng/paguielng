@@ -3,7 +3,7 @@
 ## 👋 Bienvenue sur mon GitHub !
 
 Salut ! Moi, c'est **Paguiel**.  
-Je ***construis** des trucs... parfois dans le bon ordre. 🧑🏾‍💻
+Je **construis** des trucs... parfois dans le bon ordre. 🧑🏾‍💻
 
 <!--Profile Count Badge-->
 <p align="left">
