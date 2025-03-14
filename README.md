@@ -3,7 +3,7 @@
 ## 👋 Bienvenue sur mon GitHub !
 
 Salut ! Moi, c'est **Paguiel**.  
-Passionné de **sciences**, **technologies** et **projets techniques**, je partage ici mes projets et recherches.
+Je ***construis** des trucs... parfois dans le bon ordre. 🧑🏾‍💻
 
 <!--Profile Count Badge-->
 <p align="left">
