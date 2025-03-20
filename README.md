@@ -21,15 +21,11 @@ Je **construis** des trucs...  parfois dans le bon ordre. 🧑🏾‍💻
     <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50"/></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/></a>&nbsp;&nbsp;
-    <a href="https://gitlab.com/"><img src="https://talks.freelancerepublik.com/wp-content/uploads/2021/02/GitLab_Logo.svg.png" alt="GitLab" width="50"/></a>&nbsp;&nbsp;
-    <a href="https://www.spyder-ide.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" alt="Spyder" width="50"/></a>&nbsp;&nbsp;
     <a href="https://www.docker.com/"><img src="https://d7umqicpi7263.cloudfront.net/img/product/bf3d98f7-537d-4f2c-b763-ee84a2487590.com/5c52f7fb9b471662f8b00586df713879" alt="Docker" width="65"/></a>&nbsp;&nbsp;
     <a href="https://micropython.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" alt="MicroPython" width="50"/></a>&nbsp;&nbsp;
     <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/langfr-800px-Jupyter_logo.svg.png" alt="JupyterLab" width="50"/></a>&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="50"/></a>&nbsp;&nbsp;
     <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="55"/></a>&nbsp;&nbsp;
-	<a href="https://developer.android.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/langfr-800px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" width="50"/></a>
-  </div>
 </div>
 
 
