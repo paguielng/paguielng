@@ -38,20 +38,6 @@ Je **construis** des trucs...  parfois dans le bon ordre. 🧑🏾‍💻
 ![Thonny](https://img.shields.io/badge/Thonny-333333?style=for-the-badge&logo=thonny&logoColor=white)
 ![OpenSCAD](https://img.shields.io/badge/OpenSCAD-FFD700?style=for-the-badge&logo=openscad&logoColor=black)
 
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/paguielng">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<br />
-
 ---
 ### 📊 LATEST PROJECT
 
