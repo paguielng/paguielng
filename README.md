@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 👋 Bienvenue sur mon GitHub !
+## Bienvenue sur mon GitHub !
 
 Salut ! Moi, c'est **Paguiel**.  
 Je **construis** des trucs...  parfois dans le bon ordre. 🧑🏾‍💻
