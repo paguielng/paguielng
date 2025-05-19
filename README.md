@@ -50,17 +50,15 @@ Je **construis** des trucs...  parfois dans le bon ordre. 🧑🏾‍💻
       </p>
     </td>
 
-<tr>
-   <tr>
+<tr> 
   <td width="50%">
     <p align="left">
       <a href="https://github.com/paguielng/ShoppingLandListPage">
-        <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=paguielng&repo=ShoppingLandListPage&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="ShoppingLandListPage" />
+        <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=paguielng&repo=ShoppingLandListPage&theme=blueberry&show_owner=true&bg_color=0,0d1117,004080&title_color=4db8ff&text_color=ffffff" alt="ShoppingLandListPage" />
       </a>
-      <br>
-      <img src="https://img.shields.io/badge/VS_Code-1E2A78?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
     </p>
   </td>
 </tr>
+
 
    
