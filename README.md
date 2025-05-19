@@ -45,10 +45,11 @@ Je **construis** des trucs...  parfois dans le bon ordre. 🧑🏾‍💻
    <td width="50%">
      <p align="left">
        <a href="https://github.com/ReaderAI/ReaderAI">
-         <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=paguielng&repo=ReaderAI&theme=nightowl&show_owner=true&bg_color=0,000000,004080&title_color=4f46e5text_color=ffffff" alt="FIFA-Odyssey" />
-        </a>
-      </p>
-    </td>
+         <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=paguielng&repo=ReaderAI&theme=nightowl&show_owner=true&bg_color=0,000000,004080&title_color=4f46e5&text_color=ffffff" alt="ReaderAI" />
+       </a>
+     </p>
+   </td>
+</tr>
 
 <tr> 
   <td width="50%">
