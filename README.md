@@ -36,7 +36,7 @@ Je **construis** des trucs...  parfois dans le bon ordre. 🧑🏾‍💻
 ![OpenRocket](https://img.shields.io/badge/OpenRocket-1E90FF?style=for-the-badge&logo=rocket&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF8800?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Thonny](https://img.shields.io/badge/Thonny-333333?style=for-the-badge&logo=thonny&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code Studio](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 ### 📊 LATEST PROJECT
