@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👨‍💻 I often code with...
 
 <div style="overflow: hidden; white-space: nowrap;">
