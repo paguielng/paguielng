@@ -1,17 +1,5 @@
 ## Hi there 👋
 
-## Bienvenue sur mon GitHub !
-
-Salut ! Moi, c'est **Paguiel**.  
-Je **construis** des trucs...  parfois dans le bon ordre. 🧑🏾‍💻
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=paguielng&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="paguielng" style="padding-right:20px;" />
-</p>
-
----
-
 ## 👨‍💻 I often code with...
 
 <div style="overflow: hidden; white-space: nowrap;">
