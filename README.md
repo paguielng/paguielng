@@ -17,7 +17,7 @@
 
 ### 🛠️ Outils de conception & developpement
 
-![Bolt](https://img.shields.io/badge/Bolt-FF6F00?style=for-the-badge&logo=bolt&logoColor=white)
+![Bolt.new](https://img.shields.io/badge/Bolt.new-%23FFDD00?style=for-the-badge&logo=lightning&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OpenRocket](https://img.shields.io/badge/OpenRocket-1E90FF?style=for-the-badge&logo=rocket&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF8800?style=for-the-badge&logo=autodesk&logoColor=white)
