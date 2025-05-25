@@ -23,6 +23,7 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF8800?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Thonny](https://img.shields.io/badge/Thonny-333333?style=for-the-badge&logo=thonny&logoColor=white)
 ![VS Code Studio](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 <!--
 ---
