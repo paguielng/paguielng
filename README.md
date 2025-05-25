@@ -24,6 +24,7 @@
 ![Thonny](https://img.shields.io/badge/Thonny-333333?style=for-the-badge&logo=thonny&logoColor=white)
 ![VS Code Studio](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<!--
 ---
 ### 📊 Latest Projects
 
@@ -47,6 +48,6 @@
     </p>
   </td>
 </tr>
-
+-->
 
    
