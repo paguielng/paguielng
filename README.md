@@ -1,4 +1,4 @@
-## 👨‍💻 Je code souvent avec...
+<!-- ## 👨‍💻 Je code souvent avec...
 
 <div style="overflow: hidden; white-space: nowrap;">
   <div style="display: inline-block; animation: scroll 10s linear infinite; white-space: nowrap;">
@@ -23,7 +23,7 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF8800?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Thonny](https://img.shields.io/badge/Thonny-333333?style=for-the-badge&logo=thonny&logoColor=white)
 ![VS Code Studio](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+-->
 <!--
 ---
 ### 📊 Latest Projects
