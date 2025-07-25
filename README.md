@@ -12,7 +12,7 @@
     <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/langfr-800px-Jupyter_logo.svg.png" alt="JupyterLab" width="50"/></a>&nbsp;&nbsp;
     <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React" width="55"/></a>&nbsp;&nbsp;
     <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="55"/></a>&nbsp;&nbsp;
-    <a href="https://blender.org/"><img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/blender-icon.png" alt="Blender" width="55"/></a>&nbsp;&nbsp;
+    <a href="https://blender.org/"><img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/blender-icon.png" alt="Blender" width="60"/></a>&nbsp;&nbsp;
 </div>
 
 
